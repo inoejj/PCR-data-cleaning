@@ -1,7 +1,7 @@
 library(pacman)
 p_load(tidyr, dplyr, stringr, quantmod, ggplot2, reshape2 , scales, purrr, data.table, lubridate, countrycode,
        gridExtra, ggthemes, viridis, knitr, gridExtra)
-setwd("C:/Users/Jia Jie Choong/Desktop/R with Zhanyou/JJ please make these into excel files/rhamp tape correct extraction dna")
+setwd("C:/Users/Jia Jie Choong/Desktop/rhamp tape correct extraction dna") ###change the directory here
 
 
 allFiles= list.files(pattern = "*.txt")
