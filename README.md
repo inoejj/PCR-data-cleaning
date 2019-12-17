@@ -4,9 +4,13 @@ A simple script to consolidate the whole PCR output data in txt format into a cl
 
 # Tutorial
 
-Try playing it yourself by putting all the .txt file in a folder and create a .csv file. 
+1. Launch `consolidate_PCR_data_into_csv.R` with RStudio.
 
-The *.txt files* are in the `rhamp tape correct extraction dna` folder.
+2. Download all the *.txt* files and placed them in a folder. *(The *.txt* files are in the `rhamp tape correct extraction dna` folder.)*
 
-Check your answer with the `rhamp_tape_data.csv` in the `rhamp tape correct extraction dna` folder to see if your output .csv file matches mine.
+3. Set your working directory as the folder that contains the *.txt* files.
+
+4. Run the R script and it will create a *.csv* file 
+
+5. Check your answer with the `answer.csv` in the `rhamp tape correct extraction dna` folder to see if your output .csv file matches it.
 
