@@ -1,5 +1,4 @@
-# PCR data into csv
-
+# PCR data cleaning
 A simple script to consolidate the whole PCR(96wells) output data in .txt format into a cleaner and readable .csv file for data analysis.
 
 # Tutorial
